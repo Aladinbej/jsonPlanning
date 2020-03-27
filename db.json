@@ -1,4 +1,6 @@
-[{
+{
+  "plannings": [
+   {
 		"matiere": "C#",
 		"professeur": "Anthony Prunck",
 		"heure": "13 Heures"
@@ -16,4 +18,6 @@
 		"heure": "16 Heures"
 	}
 
-]
+  ]
+}
+
