@@ -3,7 +3,7 @@
       {
          "idCourse":"2",
          "idTypeCourse":"7",
-         "idMatter":"125",
+         "idMatter":"C++",
          "idTeacher":"25",
          "idClass":"4",
          "dateStart":"03-04-2020",
@@ -14,7 +14,7 @@
       {
          "idCourse":"2",
          "idTypeCourse":"7",
-         "idMatter":"125",
+         "idMatter":"JAVA",
          "idTeacher":"25",
          "idClass":"4",
          "dateStart":"03-04-2020",
@@ -25,7 +25,7 @@
       {
          "idCourse":"2",
          "idTypeCourse":"7",
-         "idMatter":"125",
+         "idMatter":"JENKINS",
          "idTeacher":"25",
          "idClass":"4",
          "dateStart":"04-04-2020",
@@ -36,7 +36,7 @@
       {
          "idCourse":"2",
          "idTypeCourse":"7",
-         "idMatter":"125",
+         "idMatter":"UNREAL ENGINE",
          "idTeacher":"25",
          "idClass":"4",
          "dateStart":"04-04-2020",
@@ -47,12 +47,12 @@
       {
          "idCourse":"2",
          "idTypeCourse":"7",
-         "idMatter":"125",
+         "idMatter":"RESIDENT EVIL 3 REMAKE",
          "idTeacher":"25",
          "idClass":"4",
          "dateStart":"05-04-2020",
          "dateEnd":"03-04-2020",
-         "presentTeacher":"Adolf Hitler",
+         "presentTeacher":"Jill Valentine",
          "comments":"HELLO"
       }
    ]
