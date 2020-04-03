@@ -1,54 +1,54 @@
 {
-   "plannings":[
+   "courses":[
       {
-         "2020-04-03":[
-            {
-               "matiere":"C#",
-               "professeur":"Anthony Prunck",
-               "heure":"13 Heures"
-            },
-            {
-               "matiere":"C#",
-               "professeur":"Anthony Prunck",
-               "heure":"13 Heures"
-            }
-         ],
-         "2020-04-04":[
-            {
-               "matiere":"C+++",
-               "professeur":"Anthony Prunck",
-               "heure":"13 Heures"
-            },
-            {
-               "matiere":"C---",
-               "professeur":"Anthony Prunck",
-               "heure":"13 Heures"
-            }
-         ],
-         "2020-04-05":[
-            {
-               "matiere":"Hello",
-               "professeur":"Anthony Prunck",
-               "heure":"13 Heures"
-            },
-            {
-               "matiere":"HIHI",
-               "professeur":"Anthony Prunck",
-               "heure":"13 Heures"
-            }
-         ],
-         "2020-04-06":[
-            {
-               "matiere":"FLOCK",
-               "professeur":"Anthony Prunck",
-               "heure":"13 Heures"
-            },
-            {
-               "matiere":"KRICK",
-               "professeur":"Anthony Prunck",
-               "heure":"13 Heures"
-            }
-         ]
+         "idCourse":"2",
+         "idTypeCourse":"7",
+         "idMatter":"125",
+         "idTeacher":"25",
+         "idClass":"4",
+         "dateStart":"03-04-2020",
+         "dateEnd":"03-04-2020",
+         "presentTeacher":"Mireille l'Abeille"
+      },
+      {
+         "idCourse":"2",
+         "idTypeCourse":"7",
+         "idMatter":"125",
+         "idTeacher":"25",
+         "idClass":"4",
+         "dateStart":"03-04-2020",
+         "dateEnd":"03-04-2020",
+         "presentTeacher":"Marc Antoine"
+      },
+      {
+         "idCourse":"2",
+         "idTypeCourse":"7",
+         "idMatter":"125",
+         "idTeacher":"25",
+         "idClass":"4",
+         "dateStart":"04-04-2020",
+         "dateEnd":"04-04-2020",
+         "presentTeacher":"Arnold Schwarzenneger"
+      },
+      {
+         "idCourse":"2",
+         "idTypeCourse":"7",
+         "idMatter":"125",
+         "idTeacher":"25",
+         "idClass":"4",
+         "dateStart":"04-04-2020",
+         "dateEnd":"03-04-2020",
+         "presentTeacher":"Staline"
+      },
+      {
+         "idCourse":"2",
+         "idTypeCourse":"7",
+         "idMatter":"125",
+         "idTeacher":"25",
+         "idClass":"4",
+         "dateStart":"05-04-2020",
+         "dateEnd":"03-04-2020",
+         "presentTeacher":"Adolf Hitler"
       }
    ]
 }
