@@ -1,33 +1,54 @@
 {
-  "plannings": [
-   {
-	   	"date": "2020-04-03",
-		"matiere": "C#",
-		"professeur": "Anthony Prunck",
-		"heure": "13 Heures"
-	},
-
-	{
-		"date": "2020-04-04",
-		"matiere": "C++",
-		"professeur": "Aladin Bejaoui",
-		"heure": "10 Heures"
-	},
-
-	{
-		"date": "2020-04-05",
-		"matiere": "IOS Gangster",
-		"professeur": "Marius Marciniak",
-		"heure": "16 Heures"
-	},
-	
-	{
-		"date": "2020-04-06",
-		"matiere": "Le juste prix !",
-		"professeur": "Vincent Lagaffe",
-		"heure": "16h30 Heures"
-	}
-
-  ]
+   "plannings":[
+      {
+         "2020-04-03":[
+            {
+               "matiere":"C#",
+               "professeur":"Anthony Prunck",
+               "heure":"13 Heures"
+            },
+            {
+               "matiere":"C#",
+               "professeur":"Anthony Prunck",
+               "heure":"13 Heures"
+            }
+         ],
+         "2020-04-04":[
+            {
+               "matiere":"C+++",
+               "professeur":"Anthony Prunck",
+               "heure":"13 Heures"
+            },
+            {
+               "matiere":"C---",
+               "professeur":"Anthony Prunck",
+               "heure":"13 Heures"
+            }
+         ],
+         "2020-04-05":[
+            {
+               "matiere":"Hello",
+               "professeur":"Anthony Prunck",
+               "heure":"13 Heures"
+            },
+            {
+               "matiere":"HIHI",
+               "professeur":"Anthony Prunck",
+               "heure":"13 Heures"
+            }
+         ],
+         "2020-04-06":[
+            {
+               "matiere":"FLOCK",
+               "professeur":"Anthony Prunck",
+               "heure":"13 Heures"
+            },
+            {
+               "matiere":"KRICK",
+               "professeur":"Anthony Prunck",
+               "heure":"13 Heures"
+            }
+         ]
+      }
+   ]
 }
-
